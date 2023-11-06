@@ -19,7 +19,7 @@
 		"sourceType": "module"
 	},
 	"plugins": ["react"],
-	
+
 
 	"rules": {
 		"indent": [1, "tab"],
@@ -36,4 +36,9 @@
 			}
 		]
 	}
+	"settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
 }
