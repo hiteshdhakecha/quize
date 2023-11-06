@@ -36,11 +36,10 @@
   },
   "description": "play quize online",
   "main": "next.config.js",
+
   "keywords": [
     "example"
   ],
   "author": "hit"
- "engines": { 
-   "node": "4.1.1" 
- } 
+  
 }
