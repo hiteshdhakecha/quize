@@ -32,9 +32,6 @@ export default function MainHome () {
 				</p>
 			</article>
 
-    <iframe src="https://www.my-game.com" title="My game" allow="autoplay">
-    <!-- The game is loaded here and contains the adsbygoogle tag -->
-  </iframe>
 
 			<button onClick={handlePlay} id='play' href="play" className='btn-primary uppercase px-6 py-4 text-lg max-w-md w-full mx-auto mt-10' >
 				Play
