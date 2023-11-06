@@ -1,13 +1,13 @@
 {
   "name": "quize-online",
   "version": "0.1.0",
-  "private": true,
+  "private":false,
   "license": "MIT",
   "lint": "eslint .",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "NEXT_MANUAL_SIG_HANDLE=true next start",
+    "start": "NEXT_MANUAL_SIG_HANDLE=false next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -36,7 +36,7 @@
   },
   "description": "play quize online",
   "main": "next.config.js",
-
+"no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
   "keywords": [
     "example"
   ],
