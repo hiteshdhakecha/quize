@@ -8,9 +8,7 @@ export default function App ({ Component, pageProps }) {
 		<>
 			<Head>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7827406820675555"
-  crossOrigin="anonymous"></script>
-			</Head>
+				               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7827406820675555" crossOrigin="anonymous"></script></Head>
 			<Component {...pageProps} />
 			<NewGameForm />
 			<style jsx global>{`
