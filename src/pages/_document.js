@@ -6,7 +6,8 @@ export default function Document () {
 			<Head>
 				<meta charSet="UTF-8" />
 				<link rel="icon" href="/favicon.svg" />
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8466768412585798"
+     crossorigin="anonymous"></script>
 				{/* <!-- Meta --> */}
 				<meta name="author" content="Cosmo" />
 				<meta name="theme-color" content="#3b82f6" />
