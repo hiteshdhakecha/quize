@@ -8,11 +8,8 @@ export default function App ({ Component, pageProps }) {
 		<>
 			<Head>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<script async
-      data-adbreak-test="on"
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-123456789"
-      crossorigin="anonymous">
-    </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8466768412585798"
+     crossorigin="anonymous"></script>
 		    </Head>
 				            <script>
       window.adsbygoogle = window.adsbygoogle || [];
