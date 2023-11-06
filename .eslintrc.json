@@ -19,11 +19,7 @@
 		"sourceType": "module"
 	},
 	"plugins": ["react"],
-	"module.exports" : {
-  "rules": {
-    "no-mixed-spaces-and-tabs": 0, // disable rule
-  }
-}
+	
 
 	"rules": {
 		"indent": [1, "tab"],
