@@ -10,11 +10,16 @@ export default function App ({ Component, pageProps }) {
 
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<meta name="google-adsense-account" content="ca-pub-8466768412585798">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8466768412585798"
-     crossorigin="anonymous"></script>
+// _app.js
+<Script
+  id="adsbygoogle-init"
+  strategy="afterInteractive"
+  crossOrigin="anonymous"
+  src= "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxx"
+/>
 
 		    </Head>
-				            <script>
+	 <script>
       window.adsbygoogle = window.adsbygoogle || [];
       const adBreak = adConfig = function(o) {adsbygoogle.push(o);}
     </script>
