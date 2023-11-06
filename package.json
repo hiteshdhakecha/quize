@@ -40,5 +40,7 @@
     "example"
   ],
   "author": "hit"
- 
+ "engines": { 
+   "node": "4.1.1" 
+ } 
 }
