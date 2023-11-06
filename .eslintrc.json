@@ -25,6 +25,7 @@
 		"react/react-in-jsx-scope": "off",
 		"react/prop-types": "off",
 		"no-unused-vars": 1,
+		"no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
 		"react/no-unknown-property": [
 			2,
 			{

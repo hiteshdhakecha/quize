@@ -36,7 +36,6 @@
   },
   "description": "play quize online",
   "main": "next.config.js",
-"no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
   "keywords": [
     "example"
   ],
