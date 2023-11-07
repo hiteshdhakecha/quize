@@ -3,7 +3,7 @@ import MainHome from '@/components/Home/MainHome'
 import GameModes from '@/components/Home/GameModes'
 import Categories from '@/components/Home/Categories'
 import { useEffect } from 'react'
-
+import { ResponsiveAdUnit } from "nextjs-google-adsense";
 
 export default function Main () {
 	useEffect(() => { window.onbeforeunload = () => null }, [])
