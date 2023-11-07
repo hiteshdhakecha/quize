@@ -15,7 +15,7 @@ export default function App ({ Component, pageProps }) {
   id="adsbygoogle-init"
   strategy="afterInteractive"
   crossOrigin="anonymous"
-  src= "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9662185580941343"
+  src= "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8999391147514345"
 />
 			</Head>
 			<Component {...pageProps} />
