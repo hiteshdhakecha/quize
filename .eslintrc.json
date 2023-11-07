@@ -19,16 +19,12 @@
 		"sourceType": "module"
 	},
 	"plugins": ["react"],
-
-
 	"rules": {
 		"indent": [1, "tab"],
 		"no-tabs": 0,
-		"no-mixed-spaces-and-tabs": 0, 
 		"react/react-in-jsx-scope": "off",
 		"react/prop-types": "off",
 		"no-unused-vars": 1,
-		"no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
 		"react/no-unknown-property": [
 			2,
 			{
@@ -36,9 +32,4 @@
 			}
 		]
 	}
-	"settings": {
-    "react": {
-      "version": "detect"
-    }
-  }
 }

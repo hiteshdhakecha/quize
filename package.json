@@ -1,13 +1,13 @@
 {
   "name": "quize-online",
   "version": "0.1.0",
-  "private":false,
+  "private": true,
   "license": "MIT",
   "lint": "eslint .",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "NEXT_MANUAL_SIG_HANDLE=false next start",
+    "start": "NEXT_MANUAL_SIG_HANDLE=true next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -40,5 +40,4 @@
     "example"
   ],
   "author": "hit"
-  
 }
