@@ -6,7 +6,7 @@ export default function Document () {
 			<Head>
 				<meta charSet="UTF-8" />
 				<link rel="icon" href="/favicon.svg" />
-                <meta name="google-adsense-account" content="ca-pub-9662185580941343">
+
 				{/* <!-- Meta --> */}
 				<meta name="author" content="Cosmo" />
 				<meta name="theme-color" content="#3b82f6" />
