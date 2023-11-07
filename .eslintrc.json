@@ -32,4 +32,9 @@
 			}
 		]
 	}
+
+	"settings": {
+    "react": {
+      "version": "detect"
+    }
 }
