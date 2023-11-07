@@ -9,7 +9,7 @@ export default function App ({ Component, pageProps }) {
 		<>
 			<Head>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9662185580941343"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9662185580941343" 
      crossorigin="anonymous"></script>
 			</Head>
 			<Component {...pageProps} />
