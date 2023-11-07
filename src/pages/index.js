@@ -12,8 +12,7 @@ export default function Main () {
 		<>
 			<Head>
 				<title>Quizi</title>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8999391147514345" crossorigin="anonymous">
-     </script>
+
 			</Head>
 			<MainHome />
 			<GameModes />

@@ -35,7 +35,7 @@ export default function MainHome () {
   <ins
        class="adsbygoogle"
        style={{ display: "block" }}
-       data-ad-client="ca-pub-987************676"
+       data-ad-client="ca-pub-8999391147514345"
        data-ad-slot="776****95"
        data-ad-format="auto"
         data-full-width-responsive="true"> </ins>
