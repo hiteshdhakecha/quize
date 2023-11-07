@@ -32,13 +32,7 @@ export default function MainHome () {
 				</p>
 			</article>
 
-<ins class="adsbygoogle"
-style="display:inline-block;width:728px;height:90px"
-data-ad-client="ca-pub-1234567890123456"
-data-ad-slot="1234567890"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 
 			<button onClick={handlePlay} id='play' href="play" className='btn-primary uppercase px-6 py-4 text-lg max-w-md w-full mx-auto mt-10' >
 				Play
